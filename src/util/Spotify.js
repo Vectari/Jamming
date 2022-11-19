@@ -1,5 +1,5 @@
 const clientId = '7ee714901f1e4a99934da032bee560fd';
-const redirectUri = 'http://localhost:3000/';
+const redirectUri = 'https://vectari.github.io/Jamming/';
 let accessToken = '';
 
 const Spotify = {
